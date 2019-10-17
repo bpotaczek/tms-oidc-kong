@@ -1,7 +1,7 @@
 package = "tms-kong-oidc"
 version = "1.0-0"
 source = {
-    url = "",
+    url = "https://github.com/bpotaczek/tms-oidc-kong/tms-kong-oidc-1.0.tar.gz",
     tag = "v1.0-0",
     dir = "tms-kong-oidc"
 }
